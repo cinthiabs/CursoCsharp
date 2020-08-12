@@ -1,2 +1,2 @@
 # CursoCsharp
-Esse repositório contém todo o conteúdo estudado das aulas do Curso de C#
+Esse repositório contém todo o conteúdo, anotações, exercícos estudados nas aulas do Curso de C#
