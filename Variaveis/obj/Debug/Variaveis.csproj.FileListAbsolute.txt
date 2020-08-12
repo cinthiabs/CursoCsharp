@@ -1,0 +1,6 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Variaveis\obj\Debug\Variaveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\bin\Debug\Exercicio03.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\bin\Debug\Exercicio03.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\bin\Debug\Exercicio03.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\obj\Debug\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\obj\Debug\Exercicio03.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\obj\Debug\Exercicio03.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio03\obj\Debug\Exercicio03.csprojAssemblyReference.cache

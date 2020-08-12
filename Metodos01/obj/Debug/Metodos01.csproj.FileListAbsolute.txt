@@ -1,0 +1,7 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\bin\Debug\Metodos01.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\bin\Debug\Metodos01.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\bin\Debug\Metodos01.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\obj\Debug\Metodos01.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\obj\Debug\Metodos01.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\obj\Debug\Metodos01.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos01\obj\Debug\Metodos01.pdb

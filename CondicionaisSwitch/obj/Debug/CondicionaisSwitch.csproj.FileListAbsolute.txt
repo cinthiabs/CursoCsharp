@@ -1,0 +1,7 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\bin\Debug\CondicionaisSwitch.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\bin\Debug\CondicionaisSwitch.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\bin\Debug\CondicionaisSwitch.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\obj\Debug\CondicionaisSwitch.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\obj\Debug\CondicionaisSwitch.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\obj\Debug\CondicionaisSwitch.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\CondicionaisSwitch\obj\Debug\CondicionaisSwitch.pdb

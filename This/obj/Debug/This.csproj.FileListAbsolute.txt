@@ -1,0 +1,7 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\bin\Debug\This.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\bin\Debug\This.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\bin\Debug\This.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\obj\Debug\This.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\obj\Debug\This.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\This\obj\Debug\This.pdb

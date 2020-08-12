@@ -1,0 +1,7 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\bin\Debug\Exercicio04.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\bin\Debug\Exercicio04.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\bin\Debug\Exercicio04.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\obj\Debug\Exercicio04.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\obj\Debug\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\obj\Debug\Exercicio04.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Exercicio04\obj\Debug\Exercicio04.pdb

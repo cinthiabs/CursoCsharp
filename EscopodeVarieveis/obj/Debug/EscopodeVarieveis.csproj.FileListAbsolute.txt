@@ -1,0 +1,7 @@
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\bin\Debug\EscopodeVarieveis.exe.config
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\bin\Debug\EscopodeVarieveis.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\bin\Debug\EscopodeVarieveis.pdb
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\obj\Debug\EscopodeVarieveis.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\obj\Debug\EscopodeVarieveis.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\obj\Debug\EscopodeVarieveis.exe
+C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\EscopodeVarieveis\obj\Debug\EscopodeVarieveis.pdb
