@@ -10,7 +10,7 @@ namespace Constantes
     {
         static void Main(string[] args)
         {
-            const string canal = "Cursos"; // não é possivel anterar o valor de uma constante 
+            const string canal = "Cursos"; // não é possivel alterar o valor de uma constante 
             const double pi = 3.1415;
 
             Console.WriteLine("Canal{0}\n Pi: {1} ", canal,pi);
