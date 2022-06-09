@@ -1,7 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\bin\Debug\ConversõesdeTipos.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\bin\Debug\ConversõesdeTipos.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\bin\Debug\ConversõesdeTipos.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\obj\Debug\ConversõesdeTipos.csprojAssemblyReference.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\obj\Debug\ConversõesdeTipos.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\obj\Debug\ConversõesdeTipos.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\ConversõesdeTipos\obj\Debug\ConversõesdeTipos.pdb

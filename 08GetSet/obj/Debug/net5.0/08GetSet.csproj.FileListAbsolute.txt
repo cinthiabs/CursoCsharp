@@ -1,0 +1,16 @@
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.csproj.AssemblyReference.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfoInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfo.cs
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\08GetSet.exe
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\08GetSet.deps.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.dev.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\08GetSet.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\ref\08GetSet.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\bin\Debug\net5.0\08GetSet.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\ref\08GetSet.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\08GetSet\obj\Debug\net5.0\08GetSet.genruntimeconfig.cache

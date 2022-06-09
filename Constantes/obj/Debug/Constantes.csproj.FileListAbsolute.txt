@@ -1,7 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\bin\Debug\Constantes.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\bin\Debug\Constantes.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\bin\Debug\Constantes.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\obj\Debug\Constantes.csprojAssemblyReference.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\obj\Debug\Constantes.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\Constantes\obj\Debug\Constantes.pdb

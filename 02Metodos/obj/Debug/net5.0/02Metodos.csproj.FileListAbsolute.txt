@@ -1,0 +1,16 @@
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\02Metodos.exe
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\02Metodos.deps.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\02Metodos.runtimeconfig.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\02Metodos.runtimeconfig.dev.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\02Metodos.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\ref\02Metodos.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\bin\Debug\net5.0\02Metodos.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.csproj.AssemblyReference.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.AssemblyInfo.cs
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\ref\02Metodos.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\02Metodos\obj\Debug\net5.0\02Metodos.genruntimeconfig.cache

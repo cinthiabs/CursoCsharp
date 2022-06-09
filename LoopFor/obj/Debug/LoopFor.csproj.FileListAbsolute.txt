@@ -1,6 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopFor\bin\Debug\LoopFor.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopFor\bin\Debug\LoopFor.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopFor\bin\Debug\LoopFor.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopFor\obj\Debug\LoopFor.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopFor\obj\Debug\LoopFor.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopFor\obj\Debug\LoopFor.pdb

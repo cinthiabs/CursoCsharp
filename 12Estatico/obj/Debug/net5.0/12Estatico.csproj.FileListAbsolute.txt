@@ -1,0 +1,16 @@
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.csproj.AssemblyReference.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfoInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfo.cs
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\12Estatico.exe
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\12Estatico.deps.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.dev.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\12Estatico.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\ref\12Estatico.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\bin\Debug\net5.0\12Estatico.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\ref\12Estatico.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\12Estatico\obj\Debug\net5.0\12Estatico.genruntimeconfig.cache

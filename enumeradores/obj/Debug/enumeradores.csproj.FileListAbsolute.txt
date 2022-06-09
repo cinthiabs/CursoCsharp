@@ -1,6 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\enumeradores\bin\Debug\enumeradores.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\enumeradores\bin\Debug\enumeradores.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\enumeradores\bin\Debug\enumeradores.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\enumeradores\obj\Debug\enumeradores.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\enumeradores\obj\Debug\enumeradores.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\enumeradores\obj\Debug\enumeradores.pdb

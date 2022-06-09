@@ -1,7 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\bin\Debug\Metodos.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\bin\Debug\Metodos.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\bin\Debug\Metodos.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\obj\Debug\Metodos.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\Metodos\obj\Debug\Metodos.pdb

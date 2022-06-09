@@ -1,0 +1,16 @@
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.csproj.AssemblyReference.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfoInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfo.cs
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\10Herança.exe
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\10Herança.deps.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.dev.json
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\10Herança.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\ref\10Herança.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\bin\Debug\net5.0\10Herança.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\ref\10Herança.dll
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.pdb
+C:\Users\DELL-EQP108\Desktop\Orientação a Objetos\10Herança\obj\Debug\net5.0\10Herança.genruntimeconfig.cache

@@ -1,6 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\FormatandoSaida\bin\Debug\FormatandoSaida.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\FormatandoSaida\bin\Debug\FormatandoSaida.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\FormatandoSaida\bin\Debug\FormatandoSaida.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\FormatandoSaida\obj\Debug\FormatandoSaida.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\FormatandoSaida\obj\Debug\FormatandoSaida.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\EscopodeVarieveis\FormatandoSaida\obj\Debug\FormatandoSaida.pdb

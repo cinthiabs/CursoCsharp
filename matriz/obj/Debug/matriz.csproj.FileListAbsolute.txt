@@ -1,6 +1,0 @@
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\matriz\bin\Debug\matriz.exe.config
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\matriz\bin\Debug\matriz.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\matriz\bin\Debug\matriz.pdb
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\matriz\obj\Debug\matriz.csproj.CoreCompileInputs.cache
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\matriz\obj\Debug\matriz.exe
-C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\matriz\obj\Debug\matriz.pdb
