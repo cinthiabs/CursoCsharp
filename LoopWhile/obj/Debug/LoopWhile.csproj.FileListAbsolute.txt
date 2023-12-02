@@ -5,3 +5,10 @@ C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopWhile\obj\Debug\
 C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.exe
 C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.pdb
 C:\Users\cinth\Desktop\PROGRAMAÇÃO\C#\Console\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.csprojAssemblyReference.cache
+C:\GITHUB\CursoCsharp\LoopWhile\bin\Debug\LoopWhile.exe.config
+C:\GITHUB\CursoCsharp\LoopWhile\bin\Debug\LoopWhile.exe
+C:\GITHUB\CursoCsharp\LoopWhile\bin\Debug\LoopWhile.pdb
+C:\GITHUB\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.csproj.CoreCompileInputs.cache
+C:\GITHUB\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.exe
+C:\GITHUB\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.pdb
+C:\GITHUB\CursoCsharp\LoopWhile\obj\Debug\LoopWhile.csproj.AssemblyReference.cache

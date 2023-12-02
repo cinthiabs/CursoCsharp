@@ -14,9 +14,9 @@ namespace Variaveis
             int num=-10;
             char letra = 'c'; // char só pode armazenar 1 caracter,  
             float valor = 5.3f;
-            string nome = "Cinthia";
-
+            string nome = "Cinthia"; // string armazenar até 1 bilhão de caracteres 
             var aux =nome; // não precisa declarar o tipo de dado
+            bool valorBool = false; // true or false 
 
             Console.WriteLine("O Valor da Variavel é "+ aux );
             Console.Read();

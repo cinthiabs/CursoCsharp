@@ -34,7 +34,6 @@ namespace Objeto
             Console.WriteLine("Digite  nome do jogador 1: ");
             nome1 = Console.ReadLine();
 
-
             Jogador j1 = new Jogador(nome1);
             Jogador j2 = new Jogador("Theo");
 

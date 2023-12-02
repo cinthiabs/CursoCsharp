@@ -1,31 +1,43 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LoopWhile
 {
     class Program
     {
+        public class Usuario
+        {
+            public int Senha { get; set; } = 123;
+            public int Tentativas { get; set; } = 0;
+            public int LimiteTentativas { get; set; } = 5;
+            public int SenhaUsuario { get; set; }
+        }
+
         static void Main(string[] args)
         {
-            string senha = "123";
-            string senhauser;
-            int tentativas=0;
-
-
+            Usuario user = new Usuario();
             do
             {
-                Console.Clear();
                 Console.WriteLine("Digite uma senha ");
-                senhauser = Console.ReadLine();
-                tentativas++;
+                user.SenhaUsuario = Convert.ToInt32(Console.ReadLine());
+                user.Tentativas++;
+                user.LimiteTentativas--;
 
-            } while (senha == senhauser);
-                Console.WriteLine("Senha correta, Numero de tentativas" +tentativas);
-            
-           
+                if (user.SenhaUsuario != user.Senha)
+                {
+                    Console.WriteLine("Senha incorreta, Número de tentativas: " + user.Tentativas + " Limite: " + user.LimiteTentativas);
+                }
+
+            } while (user.SenhaUsuario != user.Senha && user.LimiteTentativas > 0);
+
+            if (user.SenhaUsuario == user.Senha)
+            {
+                Console.WriteLine("Senha correta, Número de tentativas: " + user.Tentativas);
+            }
+            else
+            {
+                Console.WriteLine("Limite de tentativas atingido. Senha incorreta.");
+            }
+
             Console.Read();
         }
     }

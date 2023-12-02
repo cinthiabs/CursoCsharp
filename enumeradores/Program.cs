@@ -8,10 +8,10 @@ namespace enumeradores
 {
     class Program
     {
-        enum diasSemana {Domingo,Segunda,Terça,Quarta,Quinta,Sexta,Sabado};
+        enum DiasSemana {Domingo,Segunda,Terça,Quarta,Quinta,Sexta,Sabado};
         static void Main(string[] args)
         {
-            diasSemana ds = diasSemana.Domingo;
+            DiasSemana ds = DiasSemana.Domingo; 
 
             Console.WriteLine(ds);
             Console.Read();

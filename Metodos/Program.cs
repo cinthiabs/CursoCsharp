@@ -19,7 +19,7 @@ namespace Metodos
             v2 = Convert.ToInt32(Console.ReadLine());
 
             Curso(); // chamando o metodo Curso para o metodo Main
-            soma(v1,v2); //chamando o metodo e  passando valores para os parametros
+            Soma(v1,v2); //chamando o metodo e  passando valores para os parametros
             r = Sub(10, 9); // retornar valor com uma variavel
             Console.WriteLine("A subtração é: " +r);
 
@@ -30,7 +30,7 @@ namespace Metodos
             Console.WriteLine("Curso de C#");
             Console.Read();
         }
-        static void soma(int n1,int n2) // add parametros
+        static void Soma(int n1,int n2) // add parametros
         {
             int res = n1 + n2;
 
